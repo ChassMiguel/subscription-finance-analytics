@@ -1,0 +1,14 @@
+# Full generated dataset (regenerate with 02_synthetic_data_generator.ipynb)
+/*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+
+# OS / editor
+.directory
+.DS_Store
+Thumbs.db
+~$*
