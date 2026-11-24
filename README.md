@@ -4,7 +4,7 @@ A synthetic dataset generator for an enterprise B2B SaaS business, plus an analy
 
 The generator bakes in **hidden variables** (legacy tech debt, executive champion turnover, cashflow distress) and then drops them before export. The analysis then shows how you can still detect their effects using only the observable data.
 
-Built by **Chass Miguel E. Mesina** and **Margrette Sofia M. Hidalgo** during the Eskwelabs Innovation Fellowship (Cohort 10, Data Modeling), June–July 2026.
+Built by **Chass Miguel E. Mesina** and **Margrette Sofia M. Hidalgo** during the Eskwelabs Innovation Fellowship (Cohort 10, Data Modeling), May–August 2026.
 
 ## What's inside
 
